@@ -82,7 +82,3 @@ O site foi desenvolvido com abordagem voltada para dispositivos móveis, usando 
 ## 👨‍💻 Autor
 
 Desenvolvido por **Matheus Dias**.
-
----
-
-Feito com 💙 para transformar momentos em lembranças.
