@@ -37,8 +37,8 @@ Todos os produtos podem ser personalizados com **fotos** e **nomes**.
 
 | Tecnologia | Uso |
 |------------|-----|
-| **HTML5** | Estrutura e semântica das páginas |
-| **CSS3** | Estilização, Grid, Flexbox e responsividade (media queries) |
+| **HTML** | Estrutura e semântica das páginas |
+| **CSS** | Estilização, Grid, Flexbox e responsividade (media queries) |
 | **JavaScript** | Interatividade do site |
 
 ## 📁 Estrutura do projeto
@@ -79,24 +79,9 @@ agabe-personalizados/
 
 O site foi desenvolvido com abordagem voltada para dispositivos móveis, usando **media queries** para ajustar o layout em diferentes tamanhos de tela, garantindo uma boa experiência de navegação no celular.
 
-## 🔮 Melhorias futuras
-
-- [ ] Galeria com mais exemplos de trabalhos realizados
-- [ ] Botão de pedido direto pelo WhatsApp
-- [ ] Formulário de orçamento
-- [ ] Depoimentos de clientes
-- [ ] Publicação online (GitHub Pages, Netlify ou Vercel)
-
-## 📞 Contato
-
-**AgaBe Personalizados**
-📍 Pirassununga/SP
-📲 WhatsApp: (00) 00000-0000
-📸 Instagram: @agabepersonalizados
-
 ## 👨‍💻 Autor
 
-Desenvolvido por **[Seu Nome]**.
+Desenvolvido por **Matheus Dias**.
 
 ---
 
