@@ -62,7 +62,7 @@ agabe-personalizados/
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/agabe-personalizados.git
+   git clone https://github.com/matheusdiass1/agabe-personalizados.git
    ```
 
 2. Acesse a pasta do projeto:
