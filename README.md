@@ -6,6 +6,10 @@ O projeto apresenta a loja, mostra os produtos disponíveis e facilita o contato
 
 ---
 
+🔗 **Site no ar:** https://agabepersonalizados.netlify.app/
+
+![Preview do projeto](./assets/preview.png)
+
 ## 📋 Sobre o projeto
 
 A AgaBe Personalizados transforma memórias em presentes. Este site foi criado para:
